@@ -1,0 +1,13 @@
+# Reflection: Laboratory Activity 2
+
+During Laboratory Activity 2: Mission 2 I gained a view of cloud infrastructure and how cloud infrastructures different parts work together.
+
+I believe that **compute** is one of the important infrastructure components because **compute** provides the processing power needed to run applications, services and workloads. Without **compute** resources, storage and networking would have nothing to support. This activity helped me realize that **compute** storage, networking and other infrastructure components must work together to create a cloud environment.
+
+I also learned how **Linux** supports cloud computing. **Linux** is an flexible operating system that is widely used for servers and cloud environments. During the laboratory activity I used different **Linux** commands to check CPU, memory, storage, networking and running processes. These commands helped me understand how a system manages and monitors its resources. I also learned that **Linux** provides command-line tools and automation capabilities which are important skills for people working in cloud computing.
+
+Another important lesson I learned was the value of ** documentation** before deploying infrastructure. **Technical documentation** provides a guide for designing and setting up infrastructure. **Technical documentation** helps engineers identify the resources needed recognize problems before deployment and communicate design decisions with the team. Proper **technical documentation** is also useful for troubleshooting, maintenance and future improvements because ** documentation** records how infrastructure was designed and configured.
+
+Throughout this laboratory activity I developed skills. I learned how to use **Linux** commands to examine system resources and network information while also gaining an understanding of **compute**, storage, networking and identity services. I also improved my ability to write documentation using Markdown and organize my work in GitHub. These skills allowed me to connect the concepts discussed in class with hands‑on activities.
+
+Finally completing this mission improved my **GitHub portfolio** by making it more organized and professional. I added documentation about my laboratory activities **Linux** commands, cloud infrastructure concepts, skills learned and challenges encountered. Overall this laboratory activity helped me transform knowledge into practical skills. It showed me how **Linux**, cloud infrastructure and **technical documentation** work together and gave me a foundation, for learning more about cloud computing.
