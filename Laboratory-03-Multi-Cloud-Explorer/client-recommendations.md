@@ -74,3 +74,26 @@ AWS is recommended because the company operates globally and requires highly ava
 ## Conclusion
 
 Each cloud platform has different strengths that make it suitable for different organizations. AWS is recommended for the startup and global e-commerce company because of its scalability and broad range of services. Azure is the best choice for the university because of its integration with Microsoft technologies, while Google Cloud is recommended for the AI research company because of its strong AI, machine learning, and Kubernetes capabilities.
+
+# Multi-Cloud Decision Matrix
+
+## Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| **Startup Company** | AWS | AWS offers many cloud services and flexible scalability, making it suitable for startups that have limited resources but expect to grow. |
+| **Enterprise Organization** | AWS | AWS provides a wide range of enterprise services, strong security, scalability, and global infrastructure for large organizations. |
+| **Microsoft Environment** | Microsoft Azure | Azure works well with Microsoft technologies such as Windows Server, Microsoft 365, Microsoft Entra ID, and SQL Server. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | GCP provides strong Artificial Intelligence and Machine Learning services such as Vertex AI and scalable computing resources. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying and scaling containerized applications. |
+| **Global Web Application** | AWS | AWS provides global infrastructure, load balancing, and automatic scaling that can support highly available web applications around the world. |
+
+## Summary
+
+Based on the decision matrix, **AWS** is a good general-purpose cloud platform because of its wide range of services, scalability, and global infrastructure. **Microsoft Azure** is the best choice for organizations that already use Microsoft technologies. **Google Cloud Platform** is recommended for Artificial Intelligence, Machine Learning, and Kubernetes workloads.
+
+## Final Recommendations
+
+- **AWS** – Recommended for Startup Companies, Enterprise Organizations, and Global Web Applications.
+- **Microsoft Azure** – Recommended for Microsoft-based environments.
+- **Google Cloud Platform (GCP)** – Recommended for AI/Machine Learning and Kubernetes deployments.
