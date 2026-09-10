@@ -1,4 +1,4 @@
-# ☁️ Continue Your Linux Investigation
+# ☁️ Linux Investigation
 
 ## 1. Linux Server Investigation
 
